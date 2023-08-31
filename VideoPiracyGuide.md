@@ -24,6 +24,7 @@
 * ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime / 1080p
 * ⭐ **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * ⭐ **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - Multi-Site Search
+* **[Moseries](https://moseries.online/)** - Movies / Anime / TV SHOWS / 1080p
 * [MovieScene](https://moviescene.cc/) - Movies / 1080p
 * [NetFilm](https://netfilm.app/) - Movies / TV / Anime / 1080p
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
