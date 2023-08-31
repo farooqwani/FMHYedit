@@ -874,6 +874,7 @@
 * ⭐ **[Android Smart TV Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_smart_tv_.2F_firestick)** - Smart TV / Firestick Apps
 * ⭐ **[Trakt](https://play.google.com/store/apps/details?id=tv.trakt.trakt)**, [Showly 2.0](https://github.com/1RandomDev/showly-oss), [Cinexplore](https://fidloo.com/cinexplore/) or [SeriesGuide](https://seriesgui.de/) - Movie / TV Tracker
 * [Aniyomi](https://aniyomi.org/) - Movies / TV / Anime / [GitHub](https://github.com/jmir1/aniyomi)
+* [123movies](https://123movies-app.buzz/) - Movies / TV / Anime
 * [PopcornTime](http://popcorn-time.ga/) / [2](https://github.com/popcorn-official/popcorn-android) - Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * [PikaShow](https://pikashows.com/) - Movies / TV
 * [BeeTV](https://beetvapp.me/) or [NovaTV](https://novatv.app/) - Movies / TV / Anime / Chromecast
